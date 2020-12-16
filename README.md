@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Jolame Chirwa - an Information Systems student at the University of the Witswatersrand, Johannesburg
 <!--
 **JoeyAlpha5/JoeyAlpha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
